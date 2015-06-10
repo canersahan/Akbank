@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/BalanceMenu/app/controllers/StartController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BalanceMenu/app/views/start.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/controllers/ChooseDisplayOrPrint.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/controllers/PleaseWait.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/controllers/ShowBalance.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/controllers/ThankYou.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/controllers/WithDrawnMain.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/directives/fdkLabel.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/services/balanceInquiryService.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/services/startService.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/services/withDrawnService.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/styles/main.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/views/ChooseDisplayOrPrint.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/views/PleaseWait.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/views/ThankYou.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/views/WithDrawnMain.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/app/views/showBalance.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/bower.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/test/unit/testBalanceInquiryService.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Examples/BalanceCheck/test/unit/testChooseDisplayOrPrint.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GeneralMenu/app/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/GeneralMenu/app/controllers/Greetings.js" charset="UTF-8" />
+  </component>
+</project>
